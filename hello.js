@@ -5,4 +5,4 @@ function double(num) {
 // ctrl + ` -> show/hide terminal
 console.lot(double(10));
 
-// Added by mistake
+// Added by mistake more mistakes....
