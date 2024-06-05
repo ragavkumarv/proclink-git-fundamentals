@@ -6,3 +6,4 @@ function double(num) {
 console.lot(double(10));
 
 // All corrected
+// Added by mistake more mistakes....
