@@ -9,3 +9,5 @@ console.log(splitting(input));
 
 const rev = splitting(input).reverse();
 console.log(rev);
+
+console.log(rev.join(" | "));
