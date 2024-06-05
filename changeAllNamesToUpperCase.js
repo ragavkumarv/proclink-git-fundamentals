@@ -4,7 +4,7 @@
  * @param {string} namesString - A string containing one or more names separated by commas.
  * @returns {string} - The input string with all names converted to uppercase.
  */
-function convertNamesToUppercase(namesString) {
+function nameToUppercase(namesString) {
   // Split the input string into an array of names
   const names = namesString.split(",");
 
@@ -18,5 +18,5 @@ function convertNamesToUppercase(namesString) {
 }
 
 const input = "john, jane, bob";
-const output = convertNamesToUppercase(input);
+const output = nameToUppercase(input);
 console.log(output); // Output: JOHN, JANE, BOB
