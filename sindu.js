@@ -8,3 +8,4 @@ console.log(sum(x+y));
 //code3
 //code4
 //code5
+//code6
