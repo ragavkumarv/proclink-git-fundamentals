@@ -45,3 +45,8 @@ git log
   - `<space>` - page down
   - `n` - next match
   - `N` - prev match
+
+# Git merge
+
+- Merge commit
+- Fast forward
